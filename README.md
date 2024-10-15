@@ -1,6 +1,5 @@
 
 ![Aether Logo](https://github.com/ONGQ0019/filedumps/blob/main/Aether6.png?raw=true)
-
 ![GitHub release (latest by date)](https://img.shields.io/badge/release-v1.0-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/M1-Private-Limited/AETHER)
 ![GitHub](https://img.shields.io/github/license/M1-Private-Limited/AETHER)
@@ -9,28 +8,61 @@
 
 Aether is a powerful Streamlit application designed to elevate your data insights to celestial heights. Leveraging the power of Azure OpenAI, Aether enables you to generate sophisticated data segments and charts using AI, providing a seamless and interactive experience for data analysis and visualization.
 
+
 ## 🚀 Features
 
-- **AI-Powered Data Insights**: Utilize Azure OpenAI to generate intelligent data segments and visualizations.
-- **Multi-Source Data Integration**: Connect effortlessly to various data sources including Tableau, Snowflake, and Databricks.
-- **Interactive Dashboards**: Create and view dynamic dashboards with real-time data updates.
-- **Custom Data Filtering**: Apply custom filters to your datasets for refined analysis.
-- **Comprehensive Data Profiling**: Generate detailed data profiles to understand your datasets better.
-- **Report Generation**: Automatically generate reports with visualizations and key insights.
-- **User-Friendly Interface**: Intuitive UI built with Streamlit Elements and ShadCN UI for enhanced user experience.
-- **Real-Time Communication**: Stream data and interact with AI in real-time.
+- **AI-Powered Insights**: Leverage Azure OpenAI to generate marketing ideas, intelligent data segments and complex visualizations instantly.
+- **Multi-Source Integration**: Connect seamlessly to Tableau, local storage, Azure Blob Storage, and Databricks' DBFS for flexible data management.
+- **Dynamic Dashboards**: Create and view real-time, customizable dashboards built with Streamlit Elements and Nivo charts to effortlessly track trends.
+- **In-platform Filtering**: Apply categorical, numerical, and date filters to refine datasets for targeted analysis.
+- **Data Profiling**: Instantly generate detailed profiles with key statistics for quick decision-making.
+- **AI-Driven Segmentation**: Automatically create valuable data segments based on intelligent groupings and breakpoints.
+- **AI Chart Generation**: Produce diverse visualizations, from simple bar charts to complex animated race charts, with a single click.
+- **Easy Report Generation**: Export your analysis and charts into a downloadable PDF with a single click.
+- **User-Friendly UI**: Intuitive design for seamless navigation and analysis built with Shadcn.
+- **AI Chat**: Interact with AI agents to gain insights from your data or external web in real time.
 
 ## 🎥 Promo Video
-
-
 
 https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5
 
 
-
 ## ▶️ Demo
 
-[![Demo Video](https://github.com/ONGQ0019/filedumps/blob/main/thumbnail.png?raw=true)](https://www.youtube.com/watch?v=cVjDr3Uhmhc)
+[![Demo Video](https://github.com/ONGQ0019/filedumps/blob/main/aether_demo.png?raw=true)](https://www.youtube.com/watch?v=cVjDr3Uhmhc)
+
+## Aether: Your All-in-One Solution for Ideation, Segmentation, and Visualization
+
+Aether is designed to empower users with powerful insights and seamless data management. Here’s why Aether stands out:
+
+### 1. Comprehensive Ideation
+- **AI-Powered Insights**: Harness the capabilities of Azure OpenAI to generate innovative marketing ideas, intelligent data segments, and complex visualizations instantly.
+- **AI Chat**: Interact with AI agents to gain real-time insights from your data and external web sources, fueling your creative and strategic thinking.
+
+### 2. Advanced Segmentation
+- **AI-Driven Segmentation**: Automatically create valuable data segments through intelligent groupings and breakpoints, enabling targeted analysis and personalized strategies.
+- **In-Platform Filtering**: Easily apply categorical, numerical, and date filters to refine datasets, ensuring precise and relevant data exploration.
+
+### 3. Dynamic Visualization
+- **Easy Chart Generation**: Produce a wide range of visualizations, from simple bar charts to intricate animated race charts, with just a single click—no technical knowledge required.
+- **Customizable Dashboards**: Build and view real-time dashboards using Streamlit Elements and Nivo charts, allowing you to effortlessly track trends and monitor key metrics.
+
+### User-Friendly Experience
+- **Intuitive Interface**: Aether’s user-centric design, built with Shadcn, ensures seamless navigation and effortless data analysis.
+- **Multi-Source Integration**: Connect effortlessly to Tableau, local storage, Azure Blob Storage, and Databricks' DBFS, providing flexible and robust data management.
+- **Data Profiling**: Instantly generate detailed data profiles with key statistics and dictionaries, facilitating quick and informed decision-making.
+
+### Efficiency and Productivity
+- **Consolidated Activities**: Track and consolidate all your activities on the platform, making it easy to manage your workflow.
+- **Easy Report Generation**: Export your analyses and visualizations into downloadable PDFs with a single click, streamlining your reporting process.
+
+### Benefits at a Glance
+- **Time-Saving**: Streamline your data analysis and visualization processes, allowing you to focus on what matters most.
+- **Enhanced Insights**: Gain deeper and more actionable insights quickly, driving better business decisions.
+- **Creative Freedom**: Generate new ideas and conduct comprehensive data analyses without needing technical expertise.
+- **Versatile Visualizations**: Create a variety of visual representations to suit your unique data storytelling needs.
+
+Aether is designed to make data analysis accessible, insightful, and efficient for everyone. Whether you’re brainstorming new marketing strategies, segmenting your audience, or visualizing complex data, Aether provides the tools you need—all in a single, user-friendly platform.
 
 
 
