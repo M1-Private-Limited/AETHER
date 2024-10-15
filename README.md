@@ -7,7 +7,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/M1-Private-Limited/AETHER)
 ![GitHub stars](https://img.shields.io/github/stars/M1-Private-Limited/AETHER?style=social)
 
-In ancient Greek mythology, Aether was the divine substance that illuminated the heavens, revealing hidden truths. Today, Aether is your guiding light in the data world, transforming complex data into clear, actionable insights and elevating your data insights to celestial heights.
+In ancient Greek mythology, Aether was the divine substance that illuminated the heavens, revealing hidden truths. Today, Aether is your guiding light in the data world, transforming data into clear, actionable insights and elevating your data insights to celestial heights.
 
 ## 🚀 Features
 
@@ -156,10 +156,6 @@ aether/
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-- Inspired by the need for advanced AI-driven data analytics tools.
-- Thanks to the open-source community and databricks for providing the tools and libraries that make Aether possible.
 
 ---
 
