@@ -6,7 +6,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/M1-Private-Limited/AETHER)
 ![GitHub stars](https://img.shields.io/github/stars/M1-Private-Limited/AETHER?style=social)
 
-Aether is a powerful Streamlit application designed to elevate your data insights to celestial heights. Leveraging the power of Azure OpenAI, Aether enables you to generate sophisticated data segments and charts using AI, providing a seamless and interactive experience for data analysis and visualization.
+Aether is a powerful Streamlit application designed to elevate your data insights to celestial heights. 
 
 
 ## 🚀 Features
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5
 
 ## Aether: Your All-in-One Solution for Ideation, Segmentation, and Visualization
 
-Aether is designed to empower users with powerful insights and seamless data management. Here’s why Aether stands out:
+Here’s why Aether stands out:
 
 ### 1. Comprehensive Ideation
 - **AI-Powered Insights**: Harness the capabilities of Azure OpenAI to generate innovative marketing ideas, intelligent data segments, and complex visualizations instantly.
