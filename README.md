@@ -33,8 +33,6 @@ https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5
 
 ## 🌟 Aether: Your All-in-One Solution for Ideation, Segmentation, and Visualization
 
-Here’s why Aether stands out:
-
 ### Benefits at a Glance
 - **Intuitive Interface**: Aether’s user-centric design, built with Shadcn, ensures seamless navigation and effortless data analysis.
 - **Multi-Source Integration**: Connect effortlessly to Tableau, local storage, Azure Blob Storage, and Databricks' DBFS, providing flexible and robust data management.
