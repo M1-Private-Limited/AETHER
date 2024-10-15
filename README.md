@@ -27,9 +27,9 @@ Aether is a powerful Streamlit application designed to elevate your data insight
 https://github.com/user-attachments/assets/623f2508-3205-43b5-8dcf-6fabb25bf991
 
 
-## 📈 Demo
+## ▶️ Demo
 
-
+[![Demo Video](https://github.com/ONGQ0019/filedumps/blob/main/thumbnail.png?raw=true)](https://www.youtube.com/watch?v=cVjDr3Uhmhc)
 
 
 
