@@ -38,14 +38,14 @@ https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.9 or higher
 - Azure OpenAI account
-- Streamlit
+- Serpapi (Optional)
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/aether.git
+git clone https://github.com/M1-Private-Limited/AETHER.git
 cd aether
 ```
 
@@ -62,12 +62,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-> **Note:** Ensure you have all the required libraries as listed in `requirements.txt`. If not, you can install them manually:
-
-```bash
-pip install openai streamlit streamlit_elements streamlit_chat streamlit_toggle pandas duckdb ydata_profiling streamlit_ydata_profiling streamlit_shadcn_ui pygwalker plotly reportlab tableauserverclient st_on_hover_tabs streamlit_lottie streamlit_components
-```
-
 ## 🔧 Configuration
 
 ### Set Up Environment Variables
@@ -79,7 +73,6 @@ AZURE_OPENAI_API_KEY=your_azure_openai_api_key
 AZURE_OPENAI_ENDPOINT=https://your-azure-openai-endpoint/
 ```
 
-> **Warning:** Never expose your API keys in public repositories. Ensure `.env` is added to your `.gitignore`.
 
 ### Update Environment Variables in Code
 
@@ -138,34 +131,21 @@ aether/
 ## 🔍 Technologies Used
 
 - [Streamlit](https://streamlit.io/) - The app framework
-- [Azure OpenAI](https://azure.microsoft.com/en-us/services/openai-service/) - AI model integration
+- [Azure OpenAI](https://azure.microsoft.com/en-us/services/openai-service/) - GPT-4o LLM of Choice
 - [Plotly](https://plotly.com/python/) - Interactive visualizations
-- [Pandas](https://pandas.pydata.org/) - Data manipulation
-- [DuckDB](https://duckdb.org/) - In-process SQL OLAP database management system
-- [YData Profiling](https://github.com/ydataai/ydata-profiling) - Automated data profiling
 - [ReportLab](https://www.reportlab.com/) - PDF generation
 - [Tableau Server Client](https://tableau.github.io/server-client-python/docs/) - Tableau API integration
-- [Streamlit Elements](https://github.com/okld/streamlit-elements) - Enhancing Streamlit capabilities
-- [ShadCN UI](https://github.com/shadcn/ui) - UI components for Streamlit
+- [Streamlit Elements](https://github.com/okld/streamlit-elements) - Enable Nivo animated charts in Streamlit
+- [ShadCN UI](https://github.com/shadcn/ui) - TypeScript UI components for Streamlit
 - [Pygwalker](https://github.com/KamandPrompt/pygwalker) - Advanced data visualization
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- [SerpApi](https://serpapi.com/) - Providing web search capability
+- [Databricks CLI](https://docs.databricks.com/dev-tools/cli/index.html) - Connection to DBFS
+- [Snowflake Connector for Python](https://docs.snowflake.com/en/user-guide/python-connector.html) - Connection to Snowflake
+- [streamlit-lottie](https://github.com/andfanilo/streamlit-lottie) - Loading animations
 
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## 📧 Contact
-
-For any inquiries or support, please contact [your.email@example.com](mailto:your.email@example.com).
 
 ## Acknowledgements
 
