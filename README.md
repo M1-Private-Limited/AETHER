@@ -1,13 +1,13 @@
 
 ![Aether Logo](https://github.com/ONGQ0019/filedumps/blob/main/aether5.png?raw=true)
 
-![GitHub release (latest by date)](https://img.shields.io/badge/release-v1.0-blue)
-![GitHub issues](https://img.shields.io/badge/issues-0%20open-brightgreen)
-![GitHub pull requests](https://img.shields.io/badge/pull%20requests-0%20open-brightgreen)
-![GitHub last commit](https://img.shields.io/badge/last%20commit-October%202023-orange)
-![GitHub](https://img.shields.io/badge/license-MIT-blue)
-![GitHub contributors](https://img.shields.io/badge/contributors-1-blue)
-![GitHub stars](https://img.shields.io/badge/stars-0-lightgrey?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/M1-Private-Limited/AETHER)
+![GitHub issues](https://img.shields.io/github/issues/M1-Private-Limited/AETHER)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/M1-Private-Limited/AETHER)
+![GitHub last commit](https://img.shields.io/github/last-commit/M1-Private-Limited/AETHER)
+![GitHub](https://img.shields.io/github/license/M1-Private-Limited/AETHER)
+![GitHub contributors](https://img.shields.io/github/contributors/M1-Private-Limited/AETHER)
+![GitHub stars](https://img.shields.io/github/stars/M1-Private-Limited/AETHER?style=social)
 
 Aether is a powerful Streamlit application designed to elevate your data insights to celestial heights. Leveraging the power of Azure OpenAI, Aether enables you to generate sophisticated data segments and charts using AI, providing a seamless and interactive experience for data analysis and visualization.
 
