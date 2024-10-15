@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5
 
 [![Demo Video](https://github.com/ONGQ0019/filedumps/blob/main/aether_demo.png?raw=true)](https://www.youtube.com/watch?v=cVjDr3Uhmhc)
 
-## Aether: Your All-in-One Solution for Ideation, Segmentation, and Visualization
+## 🌟 Aether: Your All-in-One Solution for Ideation, Segmentation, and Visualization
 
 Here’s why Aether stands out:
 
@@ -149,7 +149,6 @@ aether/
 ├── requirements.txt
 ├── style.css
 ├── assets/
-│ ├── DINRoundPro-Black.woff2
 │ ├── loading.json
 │ ├── m1logo.png
 │ ├── m1plan.txt
@@ -183,8 +182,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Inspired by the need for advanced AI-driven data analytics tools.
-- Thanks to the open-source community for providing the tools and libraries that make Aether possible.
+- Thanks to the open-source community and databricks for providing the tools and libraries that make Aether possible.
 
 ---
 
-> **Disclaimer:** Ensure that you handle sensitive information like API keys securely. Do not expose them in your codebase or public repositories.
