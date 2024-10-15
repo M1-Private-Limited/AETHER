@@ -1,5 +1,5 @@
 
-![Aether Logo](https://github.com/ONGQ0019/filedumps/blob/main/aether5.png?raw=true)
+![Aether Logo](https://github.com/ONGQ0019/filedumps/blob/main/Aether6.png?raw=true)
 
 ![GitHub release (latest by date)](https://img.shields.io/badge/release-v1.0-blue)
 ![GitHub issues](https://img.shields.io/github/issues/M1-Private-Limited/AETHER)
