@@ -1,0 +1,164 @@
+/* General button styling */
+/* General button styling */
+button[data-testid="stBaseButton-secondaryFormSubmit"],
+button[data-testid="stBaseButton-secondary"] {
+    background-color: #000000; /* Black background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 10px 20px; /* Slightly smaller padding */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make the button inline-block */
+    font-size: 14px; /* Slightly smaller font size */
+    margin: 4px 2px; /* Add some margin */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    border-radius: 12px; /* Rounded corners */
+    transition: transform 0.2s, color 0.2s; /* Smooth transition for hover effect and color */
+}
+
+/* Hover effect */
+button[data-testid="stBaseButton-secondaryFormSubmit"]:hover,
+button[data-testid="stBaseButton-secondary"]:hover {
+    background-color: #333333; /* Dark grey on hover */
+    transform: scale(1.05); /* Slightly expand the button */
+    color: white; /* Keep text color white */
+}
+
+
+
+
+section[data-testid='stSidebar'] {
+    background-color: #111;
+    flex-shrink: unset !important;
+    
+}
+
+@media(hover:hover) and (min-width: 600px) and (max-width: 769px){
+
+    header[data-testid="stHeader"] {
+        display:none;
+    }
+
+    section[data-testid='stSidebar'] {
+        height: 100%;
+        min-width:95px !important;
+        width: 95px !important;
+        margin-left: 305px;
+        position: relative;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s ease;
+        padding-top: 60px;
+        white-space: nowrap;
+    }
+
+    section[data-testid='stSidebar']:hover{
+        min-width: 330px !important;
+        }
+
+    button[kind="header"] {
+        display: none;
+    }
+
+    div[data-testid="collapsedControl"]{
+        display: none;
+    }
+
+}
+
+@media(hover: hover) and (min-width: 769px){
+
+    header[data-testid="stHeader"] {
+        display:none;
+    }
+
+    section[data-testid='stSidebar'] {
+        height: 100%;
+        min-width:95px !important;
+        width: 95px !important;
+        transform:translateX(0px);
+        position: relative;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s ease;
+        padding-top: 60px;
+        white-space: nowrap;
+    }
+
+    section[data-testid='stSidebar']:hover{
+        min-width: 330px !important;
+        }
+
+    button[kind="header"] {
+        display: none;
+    }
+
+    div[data-testid="collapsedControl"]{
+        display: none;
+    }
+}
+
+div.st-emotion-cache-1fmfajh.e1f1d6gn0{
+
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2); /* Dark black glow with reduced opacity */
+
+    padding: 20px; /* Optional: Add some padding */
+
+    border-radius: 10px; /* Optional: Add rounded corners */
+
+    background-color: #fff; /* Optional: Set a background color */
+
+}
+
+
+.st-bb.st-bc.st-bd.st-be.st-bf.st-bg.st-al.st-bh.st-am.st-bi.st-bj.st-bk.st-cz.st-d0.st-bm.st-b8.st-b9.st-bn.st-bo.st-bp.st-bq {
+
+    width: 90% !important;  /* Set modal to 90% of screen width for small devices */
+
+    height: 80vh !important; /* Set the height of the modal */
+
+    max-width: 100% !important;
+
+    max-height: 90vh !important;
+
+}
+
+
+
+
+/* Modal styling for larger screens (e.g., tablets, laptops, desktops) */
+
+@media (min-width: 768px) {
+
+    .st-bb.st-bc.st-bd.st-be.st-bf.st-bg.st-al.st-bh.st-am.st-bi.st-bj.st-bk.st-cz.st-d0.st-bm.st-b8.st-b9.st-bn.st-bo.st-bp.st-bq {
+
+        width: 50% !important;  /* Set modal to 50% of screen width for larger devices */
+
+        height: 80vh !important; /* Set the height of the modal */
+
+        max-width: 90% !important;
+
+        max-height: 90vh !important;
+
+    }
+
+}
+
+
+
+
+/* Optional: Adjust the video size inside the modal */
+
+.stVideo {
+
+    width: 100% !important; /* Make video take full width of the modal */
+
+    height: auto !important; /* Maintain aspect ratio */
+
+}
