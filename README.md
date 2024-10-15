@@ -1,7 +1,7 @@
 
 ![Aether Logo](https://github.com/ONGQ0019/filedumps/blob/main/aether5.png?raw=true)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/M1-Private-Limited/AETHER)
+![GitHub release (latest by date)](https://img.shields.io/badge/release-v1.0-blue)
 ![GitHub issues](https://img.shields.io/github/issues/M1-Private-Limited/AETHER)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/M1-Private-Limited/AETHER)
 ![GitHub last commit](https://img.shields.io/github/last-commit/M1-Private-Limited/AETHER)
@@ -22,9 +22,16 @@ Aether is a powerful Streamlit application designed to elevate your data insight
 - **User-Friendly Interface**: Intuitive UI built with Streamlit Elements and ShadCN UI for enhanced user experience.
 - **Real-Time Communication**: Stream data and interact with AI in real-time.
 
+## 🎥 Promo Video
+
+https://github.com/user-attachments/assets/623f2508-3205-43b5-8dcf-6fabb25bf991
+
+
 ## 📈 Demo
 
-![Aether Demo](path_to_demo_image_or_gif) <!-- Replace with actual demo image or GIF -->
+
+
+
 
 ## 🛠 Installation
 
