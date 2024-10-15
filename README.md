@@ -131,7 +131,7 @@ streamlit run app.py
 
 ### Application Overview
 
-- **Datasource Tab**: Connect to various data sources like Tableau, Snowflake, or Databricks. Upload your CSV files or select pre-defined datasources.
+- **Datasource Tab**: Connect to various data sources like Tableau, Azure blobstorage, or Databricks. Upload your CSV files or select pre-defined datasources.
 - **Dashboard Tab**: View and interact with your data through custom dashboards, dictionaries, analytics, segments, and charts.
 - **Chat Tab**: Engage with the AI to ask questions and get insights based on your data.
 
@@ -173,7 +173,7 @@ aether/
 - [Pygwalker](https://github.com/KamandPrompt/pygwalker) - Advanced data visualization
 - [SerpApi](https://serpapi.com/) - Providing web search capability
 - [Databricks CLI](https://docs.databricks.com/dev-tools/cli/index.html) - Connection to DBFS
-- [Snowflake Connector for Python](https://docs.snowflake.com/en/user-guide/python-connector.html) - Connection to Snowflake
+- [Azure Blob Storage Client Library for Python](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-python) - Connection to Azure Blob Storage
 - [streamlit-lottie](https://github.com/andfanilo/streamlit-lottie) - Loading animations
 
 ## 📜 License
