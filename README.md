@@ -113,17 +113,26 @@ streamlit run app.py
 
 ```
 aether/
+├── .env
+├── .gitignore
+├── LICENSE
+├── README.md
 ├── app.py
+├── fdf.py
+├── ploty.py
 ├── requirements.txt
 ├── style.css
-├── loading.json
-├── particles.html
-├── local_components/
-│   └── card_container.py
 ├── assets/
-│   ├── m1logo.png
-│   └── aether5.png
-└── README.md
+│ ├── DINRoundPro-Black.woff2
+│ ├── loading.json
+│ ├── m1logo.png
+│ ├── m1plan.txt
+│ ├── particles.html
+│ ├── promo_video.mp4
+│ ├── singapore_districts.geojson
+│ └── testingcsv.csv
+
+
 ```
 
 ## 🔍 Technologies Used
