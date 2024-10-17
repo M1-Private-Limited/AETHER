@@ -68,10 +68,11 @@ Aether is designed to make data analysis easy, insightful, and efficient for eve
 
 Here is a quick comparison of Without Aether vs With Aether:
 #### Without Aether
-![Without Aether](https://github.com/ONGQ0019/filedumps/blob/main/without_aether.png?raw=true)
+<img src="https://github.com/ONGQ0019/filedumps/blob/main/without_aether.png?raw=true" alt="Without Aether" width="400"/>
 
 #### With Aether
-![With Aether](https://github.com/ONGQ0019/filedumps/blob/main/with_aether.png?raw=true)
+<img src="https://github.com/ONGQ0019/filedumps/blob/main/with_aether.png?raw=true" alt="With Aether" width="400"/>
+
 
 ## 🛠 Installation
 
