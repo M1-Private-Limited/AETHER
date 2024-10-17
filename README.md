@@ -30,6 +30,24 @@ https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5
 ## ▶️ Demo
 
 [![Demo Video](https://github.com/ONGQ0019/filedumps/blob/main/aether_demo.png?raw=true)](https://youtu.be/JDvVK0nckaA)
+### Questions and Answers
+
+#### What industry and topic did you choose?
+**Industry:** Telecommunications  
+**Topic:** Data Analytics Platform
+
+#### Why did you choose this topic?
+I chose this topic because the telecommunications industry generates vast amounts of data daily. Analyzing this data efficiently can provide significant insights into customer behavior, network performance, and marketing effectiveness. Aether aims to streamline this process by leveraging GENAI technology to simplify data ideation, segmentation, and visualization.
+
+#### What dataset and model did you use?
+**Dataset:** Sample dataset from Databricks' DBFS  
+**Model:** Generalized AI (GENAI) technology
+
+#### How did you solve the problem? Please explain the technical details, such as techniques you use.
+To solve the problem, we implemented the following techniques:
+
+
+
 
 ## 🌟 Aether: Your All-in-One Solution for Ideation, Segmentation, and Visualization
 
