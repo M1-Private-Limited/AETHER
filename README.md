@@ -34,18 +34,24 @@ https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5
 
 #### What industry and topic did you choose?
 **Industry:** Telecommunications  
-**Topic:** Data Analytics Platform
+**Topic:** Data Platform
 
 #### Why did you choose this topic?
-I chose this topic because the telecommunications industry generates vast amounts of data daily. Analyzing this data efficiently can provide significant insights into customer behavior, network performance, and marketing effectiveness. Aether aims to streamline this process by leveraging GENAI technology to simplify data ideation, segmentation, and visualization.
+Telecommunications industry generates vast amounts of data daily. Analyzing this huge and complex data efficiently can be very challenging and time consuming. However, this data do provide significant insights into customer behavior, marketing effectiveness and data trends. Hence, Aether aims to streamline this process by leveraging GENAI technology to simplify data ideation, segmentation, and visualization to allow users like marketer/business analyst to fully leverage our data to achieve our business goals.
 
 #### What dataset and model did you use?
-**Dataset:** Sample dataset from Databricks' DBFS  
-**Model:** Generalized AI (GENAI) technology
+**Dataset:** Sample Telco dataset from our Databricks' DBFS  
+**Model:** GPT4o from Azure Openai
 
 #### How did you solve the problem? Please explain the technical details, such as techniques you use.
-To solve the problem, we implemented the following techniques:
+Full list of techniques can be found in app.py or under our Technologies used section.
 
+Here are some of the key techniques we used:
+1. **Smart Prompt Engineering:** Advanced prompt engineering to manipulate datasets and generate complex charts and segments instantaneously. By crafting specific prompts, we guided the AI to produce structured outputs, such as detailed data dictionaries and segmentations in Python format.
+
+2. **Visualization with Nivo Charts:** Utilized Nivo charts to create beautiful, animated visualizations, enhancing the user experience and making data insights more accessible and engaging.
+
+3. **Integration with Tableau, Azure Blob Storage, Databricks APIs:** Connection to various data sources and datasets using Tableau, Azure and Databricks APIs, allowing for seamless data ingestion and integration.
 
 
 
