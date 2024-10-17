@@ -24,14 +24,12 @@ In ancient Greek mythology, Aether was the divine substance that illuminated the
 
 ## 🎥 Promo Video
 
-<video src="https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5" controls style="border-radius: 15px; width: 100%; max-width: 560px;"></video>
+https://github.com/user-attachments/assets/36a4b863-7245-4183-9aa5-bb05dcb025f5
+
 
 ## ▶️ Demo
 
-<a href="https://youtu.be/JDvVK0nckaA">
-    <img src="https://github.com/ONGQ0019/filedumps/blob/main/aether_demo.png?raw=true" alt="Demo Video" style="border-radius: 15px; width: 100%; max-width: 560px;">
-</a>
-
+[![Demo Video](https://github.com/ONGQ0019/filedumps/blob/main/aether_demo.png?raw=true)](https://youtu.be/JDvVK0nckaA)
 ### Q&A About Our Demo
 
 #### What industry and topic did you choose?
@@ -55,6 +53,8 @@ Here are some of the key techniques we used:
 
 3. **Integration with Tableau, Azure Blob Storage, Databricks APIs:** Connection to various data sources and datasets using Tableau, Azure and Databricks APIs, allowing for seamless data ingestion and integration.
 
+
+
 ## 🌟 Aether: Your All-in-One Solution for Ideation, Segmentation, and Visualization
 
 ### Benefits at a Glance
@@ -67,12 +67,11 @@ Here are some of the key techniques we used:
 Aether is designed to make data analysis easy, insightful, and efficient for everyone. Whether you’re brainstorming new marketing strategies, segmenting your audience, or visualizing complex data, Aether provides the tools you need—all in a single, user-friendly platform.
 
 Here is a quick comparison of Without Aether vs With Aether:
-
 ### Without Aether
-<img src="https://github.com/ONGQ0019/filedumps/blob/main/without_aether.png?raw=true" alt="Without Aether" style="border-radius: 15px; width: 100%; max-width: 560px;">
+<img src="https://github.com/ONGQ0019/filedumps/blob/main/without_aether.png?raw=true" alt="Without Aether" width="900"/>
 
 ### With Aether
-<img src="https://github.com/ONGQ0019/filedumps/blob/main/with_aether.png?raw=true" alt="With Aether" style="border-radius: 15px; width: 100%; max-width: 560px;">
+<img src="https://github.com/ONGQ0019/filedumps/blob/main/with_aether.png?raw=true" alt="With Aether" width="900"/>
 
 
 
