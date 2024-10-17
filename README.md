@@ -66,7 +66,7 @@ Here are some of the key techniques we used:
 
 Aether is designed to make data analysis easy, insightful, and efficient for everyone. Whether you’re brainstorming new marketing strategies, segmenting your audience, or visualizing complex data, Aether provides the tools you need—all in a single, user-friendly platform.
 
-###Here is a quick comparison of Without Aether vs With Aether:
+Here is a quick comparison of Without Aether vs With Aether:
 ### Without Aether
 <img src="https://github.com/ONGQ0019/filedumps/blob/main/without_aether.png?raw=true" alt="Without Aether" width="900"/>
 
